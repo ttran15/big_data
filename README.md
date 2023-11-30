@@ -24,7 +24,7 @@ pip install numpy
 pip install covid-data-api
 ```
 
-File structure:
+Files structure:
 
 1. pre_processing_multi: using pyspark to pre-process data in multi workers
 2. Data_visualizations: visualize data
