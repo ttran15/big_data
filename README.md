@@ -14,7 +14,9 @@ pip install pandas
 pip install seaborn
 pip install geopy.geocoders
 pip install folium
+pip install findspark
 pip install pyspark
 pip install statsmodels
 pip install numpy
+pip install covid-data-api
 ```
