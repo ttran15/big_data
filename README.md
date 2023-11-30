@@ -16,6 +16,5 @@ pip install geopy.geocoders
 pip install folium
 pip install pyspark
 pip install statsmodels
-pip install pandas
 pip install numpy
 ```
