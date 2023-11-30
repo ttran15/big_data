@@ -19,4 +19,5 @@ pip install pyspark
 pip install statsmodels
 pip install numpy
 pip install covid-data-api
+pip install pycounrty_convert
 ```
