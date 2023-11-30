@@ -11,17 +11,16 @@ Spark: 3.5.0
 
 ### Requirement libs:
 ```
-pip install matplotlib
-pip install dumpy
-pip install pandas
-pip install seaborn
-pip install geopy.geocoders
-pip install folium
-pip install findspark
-pip install pyspark
-pip install statsmodels
-pip install numpy
-pip install covid-data-api
+matplotlib==3.8.2
+dumpy==0.1.2
+pandas==2.1.3
+seaborn==0.13.0
+geopy==2.4.1
+folium==0.15.0
+findspark==2.0.1
+pyspark==3.5.0
+statsmodels==0.14.0
+numpy==1.26.2
 ```
 
 ### Files structure:
